@@ -10,6 +10,6 @@ let nomeAluno;// Undefined -> Não aponta para local nenhum na memória.
 let sobrenomeAluno = null; // Nulo -> Não aponta para lugar nenhum na memória.
 
 /*
-undefined -> É totalmente diferente de null.
+undefined -> É totalmente diferente de null, indica que uma variável não foi definida.
 null -> É usado quando queremos anular uma variável
 */
