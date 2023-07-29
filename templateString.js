@@ -12,5 +12,5 @@ console.log("O aluno "  + nome + " " + sobreNome + " tem a idade de " + idade + 
 // Esta é uma forma muito complicada e antiquada de escrever, vejamos a seguir uma forma mais eficiente.
 
 console.log(`O aluno ${nome} ${sobreNome} tem a idade de  ${idade}  e pesa  ${pesoKg}Kg`);
-// Esta formafica mais fácil idêntificar o que está acontacendo.
+// Esta forma fica mais fácil idêntificar o que está acontacendo.
 // Lembrando que o conteúdo deve ficar entre crase para funcionar adequadamente.
