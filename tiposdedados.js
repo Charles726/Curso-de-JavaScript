@@ -4,8 +4,8 @@ const nome = "Luis"; // String.
 const nome1 = 'Luis'; // String.
 const nome2 = `Luis`; // String.
 const num1 = 10; // Number.
-const num2 = 10.52; // Number.
-const altura = 1.80; //Boleano.
+const num2 = 10.52; // Number Flutuante.
+let aprovado = true; //Boleano.
 
 let nomeAluno;// Undefined -> Não aponta para local nenhum na memória.
 let sobrenomeAluno = null; // Nulo -> Não aponta para lugar nenhum na memória.
